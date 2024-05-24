@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-This project is an interpreter for a custom programming language. The interpreter is implemented in [Your Chosen Programming Language]. It reads code written in the custom language, parses it, and executes the instructions.
+This project is an interpreter for a custom programming language. The interpreter is implemented in Go, Rust, Python, Typescript, Haskell. It reads code written in the custom language, parses it, and executes the instructions.
 
 ## Features
 - Lexical analysis
